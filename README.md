@@ -1,6 +1,5 @@
-[![JS.ORG Logo](http://logo.js.org/png/github_header.png)](http://js.org)
-
-[![JS.ORG](https://img.shields.io/badge/js.org-dns-ffb400.svg?style=flat-square)](http://js.org)
+[![JS.ORG Logo](http://logo.js.org/png/github_header.png)](https://dns.js.org)
+# DNS.JS.ORG [![JS.ORG](https://img.shields.io/badge/js.org-dns-ffb400.svg?style=flat-square)](https://dns.js.org)
 
 **To get a short and sleek subdomain for your own GitHub Page follow these 4 Steps:**
 
